@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" data-locale="en" >
+<head data-requesttoken="BzMT6AuK5pt1G/kimdfSd3PXSQPRgl/3hjs3tgj7QAc=:XUVl0D3bi8kiIpxgybKKGVikeyyWuzTP1QtQgn+cBlU=">
+	<meta charset="utf-8">
+	<title>
+		Nextcloud	</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+		<meta name="apple-itunes-app" content="app-id=1125420102">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-title" content="Nextcloud">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="theme-color" content="#0082c9">
+	<link rel="icon" href="/apps/theming/favicon?v=0">
+	<link rel="apple-touch-icon" href="/apps/theming/icon?v=0">
+	<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#0082c9">
+	<link rel="manifest" href="/apps/theming/manifest?v=0">
+	<link rel="stylesheet" href="/css/core/68b4-a250-server.css?v=db81cddf52fdb3c8ca1e4c859e214124-31b44992-0">
+<link rel="stylesheet" href="/css/core/68b4-a250-css-variables.css?v=db81cddf52fdb3c8ca1e4c859e214124-31b44992-0">
+<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=ca9f0d77-0">
+<link rel="stylesheet" href="/css/files_sharing/d16b-a250-publicView.css?v=db81cddf52fdb3c8ca1e4c859e214124-d16b8f0e-0">
+<link rel="stylesheet" href="/css/richdocuments/de8a-a250-viewer.css?v=db81cddf52fdb3c8ca1e4c859e214124-de8a4e99-0">
+<link rel="stylesheet" href="/apps/files_rightclick/css/app.css?v=a4e778c3-0">
+<link rel="stylesheet" href="/apps/gallery/css/slideshow.css?v=e2aed90d-0">
+<link rel="stylesheet" href="/apps/gallery/css/gallerybutton.css?v=e2aed90d-0">
+<link rel="stylesheet" href="/apps/gallery/css/share.css?v=e2aed90d-0">
+<link rel="stylesheet" href="/css/text/7d23-a250-icons.css?v=db81cddf52fdb3c8ca1e4c859e214124-7d23ff90-0">
+<link rel="stylesheet" href="/css/core/68b4-a250-results.css?v=db81cddf52fdb3c8ca1e4c859e214124-31b44992-0">
+	<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/js/oc.js?v=31b44992"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/js/dist/main.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/js/core/merged-template-prepend.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/search/js/search.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/js/dist/share_backend.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_pdfviewer/js/previewplugin.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_videoplayer/js/main.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files/js/semaphore.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files/js/file-upload.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_sharing/js/public.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_sharing/js/templates.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files/js/fileactions.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files/js/fileactionsmenu.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files/js/jquery.fileupload.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_sharing/js/files_drop.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/richdocuments/js/viewer.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_rightclick/js/script.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_rightclick/js/files.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/js/gallery/scripts-for-file-app.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/text/js/public.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/js/public/publicpage.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/apps/files_sharing/js/public_note.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/search/js/searchprovider.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/js/files/fileinfo.js?v=31b44992-0"></script>
+<script nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0=" defer src="/core/js/files/client.js?v=31b44992-0"></script>
+	<link rel="stylesheet" href="/css/icons/icons-vars.css?v=1584629939"/><link rel="stylesheet" href="/apps/theming/styles?v=0"/><script defer src="/apps/theming/js/theming?v=0" nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0="></script><script defer src="/apps/accessibility/js/accessibility?v=0" nonce="QnpNVDZBdUs1cHQxRy9raW1kZlNkM1BYU1FQUmdsLzNoanMzdGdqN1FBYz06WFVWbDBEM2JpOGtpSXB4Z3liS0tHVmlrZXl5V3V6VFAxUXRRZ24rY0JsVT0="></script><meta property="og:title" content="Sentenza n. 2575_2020.pdf"/><meta property="og:description" content="Nextcloud - a safe home for all your data"/><meta property="og:site_name" content="Nextcloud"/><meta property="og:url" content="https://nxt1.monadic.it/s/DmCgc9xqidNZSoL"/><meta property="og:type" content="object"/><meta property="og:image" content="https://nxt1.monadic.it/apps/files_sharing/publicpreview/DmCgc9xqidNZSoL?file=/Shares/Sentenza%20n.%202575_2020.pdf&amp;x=200&amp;y=200"/></head>
+<body id="body-public">
+<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer noopener">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+	<div id="notification-container">
+		<div id="notification"></div>
+	</div>
+	<header id="header">
+		<div class="header-left">
+			<span id="nextcloud">
+				<div class="logo logo-icon svg"></div>
+				<h1 class="header-appname">
+					Sentenza n. 2575_2020.pdf				</h1>
+				<div class="header-shared-by">
+					shared by Mauro Boschi				</div>
+			</span>
+		</div>
+
+				<div class="header-right">
+			<span id="header-primary-action" class="">
+				<a href="https://nxt1.monadic.it/s/DmCgc9xqidNZSoL/download" class="primary button">
+					<span>Download</span>
+				</a>
+			</span>
+						<div id="header-secondary-action">
+				<span id="header-actions-toggle" class="menutoggle icon-more-white"></span>
+				<div id="header-actions-menu" class="popovermenu menu">
+					<ul>
+						<li id="download"><a href="https://nxt1.monadic.it/s/DmCgc9xqidNZSoL/download"><span class="icon icon-download"></span>Download &nbsp;<span class="download-size">(639 KB)</span></a></li><li><a id="directLink-container"><span class="icon icon-public"></span><label for="directLink">Direct link</label></a></li><li><span class="menuitem"><input id="directLink" type="text" readonly="" value="https://nxt1.monadic.it/s/DmCgc9xqidNZSoL/download"></span></li><li><a id="save-external-share" data-protected="false" data-owner-display-name="Mauro Boschi" data-owner="mauro.boschi@monadic.it" data-name="Sentenza n. 2575_2020.pdf"><span class="icon icon-external"></span><label for="remote_address">Add to your Nextcloud</label><form class="save-form hidden" action="#"><input type="text" id="remote_address" placeholder="user@yourNextcloud.org"><input type="submit" value=" " id="save-button-confirm" class="icon-confirm" disabled="disabled"></button></form></a></li>					</ul>
+				</div>
+			</div>
+					</div>
+			</header>
+	<div id="content" class="app-files_sharing" role="main">
+		<div id="app-content">
+	<link rel="image_src" href="https://nxt1.monadic.it/apps/files_sharing/publicpreview/DmCgc9xqidNZSoL?file=/Shares/Sentenza%20n.%202575_2020.pdf&amp;x=200&amp;y=200" />
+
+<input type="hidden" id="sharingUserId" value="mauro.boschi@monadic.it">
+<input type="hidden" id="filesApp" name="filesApp" value="1">
+<input type="hidden" id="isPublic" name="isPublic" value="1">
+<input type="hidden" name="dir" value="" id="dir">
+	<input type="hidden" name="downloadURL" value="https://nxt1.monadic.it/s/DmCgc9xqidNZSoL/download" id="downloadURL">
+<input type="hidden" name="previewURL" value="https://nxt1.monadic.it/s/DmCgc9xqidNZSoL/download" id="previewURL">
+<input type="hidden" name="sharingToken" value="DmCgc9xqidNZSoL" id="sharingToken">
+<input type="hidden" name="filename" value="Sentenza n. 2575_2020.pdf" id="filename">
+<input type="hidden" name="mimetype" value="application/pdf" id="mimetype">
+<input type="hidden" name="previewSupported" value="true" id="previewSupported">
+<input type="hidden" name="mimetypeIcon" value="/apps/theming/img/core/filetypes/application-pdf.svg" id="mimetypeIcon">
+<input type="hidden" name="hideDownload" value="false" id="hideDownload">
+<input type="hidden" id="disclaimerText" value="">
+<input type="hidden" name="maxFilesizeUpload" value="10737418240" id="maxFilesizeUpload">
+
+	<input type="hidden" name="filesize" value="653951" id="filesize">
+<input type="hidden" name="maxSizeAnimateGif" value="10" id="maxSizeAnimateGif">
+
+	<!-- ONLY if this is a folder, we show the grid toggle button -->
+		
+	<!-- files listing -->
+	<div id="files-public-content">
+		<div id="preview">
+												<!-- Preview frame is filled via JS to support SVG images for modern browsers -->
+					<div id="imgframe"></div>
+													<div class="directDownload">
+						<a href="https://nxt1.monadic.it/s/DmCgc9xqidNZSoL/download" id="downloadFile" class="button">
+							<span class="icon icon-download"></span>
+							Download Sentenza n. 2575_2020.pdf (639 KB)
+						</a>
+					</div>
+									</div>
+	</div>
+
+	<input type="hidden" name="dir" id="dir" value="" />
+	<div class="hiddenuploadfield">
+		<input type="file" id="file_upload_start" class="hiddenuploadfield" name="files[]"
+			   data-url="/files/ajax/upload.php" />
+	</div>
+</div>
+	</div>
+		<footer>
+		<p><a href="https://nextcloud.com" target="_blank" rel="noreferrer noopener" class="entity-name">Nextcloud</a> – a safe home for all your data</p>
+					<p>
+				<a href="https://nextcloud.com/signup/" target="_blank" rel="noreferrer noopener">
+					Get your own free account				</a>
+			</p>
+				</footer>
+	
+</body>
+</html>
